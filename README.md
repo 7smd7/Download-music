@@ -6,7 +6,7 @@ if you want just use it on windows, you can download music fetch.exe and phantom
 **its mean that you should have phantomJS webdriver file beside the .py or .exe file to run it.**
 
 just link.py just fetch the link and details of your search's result.
-\n
+
 downloadAll.py download parallel all the links that it fetched.
 
 
